@@ -77,8 +77,9 @@
       WHERE TABLE_schema = 'tcs1' AND table_name = 'sarang1';
 
 
-
-
+## RELATED LINKS 
+1) Hashnode link ---> https://saranghashnodedev.hashnode.dev/day-2-of-sql-learn-in-public-alter-table-and-constraints
+2) LINKED IN link ---> https://www.linkedin.com/in/sarang-chopra-b2291834b/recent-activity/all/
 
 
 
