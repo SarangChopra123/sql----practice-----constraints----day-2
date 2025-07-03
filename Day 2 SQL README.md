@@ -78,10 +78,12 @@ A] ADD and DROP constraints using alter table --->
    https://saranghashnodedev.hashnode.dev/day-2-of-sql-learn-in-public-alter-table-and-constraints
 
 
-2) LinkedIn Post 
+2) LinkedIn Post
+
+   https://www.linkedin.com/in/sarang-chopra-b2291834b/recent-activity/all/
 
 
-3) DAY 2 --> SOURCE CODE 
+    
 
    
 
