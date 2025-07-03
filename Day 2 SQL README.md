@@ -75,6 +75,7 @@ A] ADD and DROP constraints using alter table --->
 
 1) Hashnode Blog --> Day 2
 
+   https://saranghashnodedev.hashnode.dev/day-2-of-sql-learn-in-public-alter-table-and-constraints
 
 
 2) LinkedIn Post 
